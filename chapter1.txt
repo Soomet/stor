@@ -1,2 +1,6 @@
 This is just a test and chapter1 and another branch.
+<<<<<<< HEAD
 Again edited in the MASTER branch.
+=======
+Edited in the alien branch.
+>>>>>>> alien-plot
